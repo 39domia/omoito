@@ -1,0 +1,36 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.main {
+	margin: 0 auto;
+}
+
+.chapter {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.chapter>img {
+	max-width: 100%;
+	padding-bottom: 3px;
+}
+
+.chapter-1 {
+	background-color: #E75058;
+}
+
+.chapter-2 {
+	background-color: #6980B8;
+}
+
+.chapter-3 {
+	background-color: #74AD5C;
+}
+
+.chapter-4 {
+	background-color: #B376AF;
+}
